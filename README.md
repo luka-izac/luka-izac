@@ -15,5 +15,5 @@ Para mim, aprender é uma jornada constante de conectar conceitos e aplicá-los 
   explorando ferramentas como Spring e Jakarta EE para criar aplicações robustas e escaláveis.
 
   # Repositórios Importantes
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luka-izac&repo=lab-padroes-projeto-spring&theme=tokyonight)](https://github.com/luka-izac/lab-padroes-projeto-spring) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luka-izac&repo=Spring-Data-Jpa&theme=tokyonight)]((https://github.com/luka-izac/Spring-Data-Jpa))
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luka-izac&repo=lab-padroes-projeto-spring&theme=tokyonight)](https://github.com/luka-izac/lab-padroes-projeto-spring) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=luka-izac&repo=Spring-Data-Jpa&theme=tokyonight)](https://github.com/luka-izac/Spring-Data-Jpa)
   
